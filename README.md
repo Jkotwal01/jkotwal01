@@ -11,4 +11,4 @@
 - 💬 Ask me about **Python, FastAPI, REST APIs, DSA, Backend Development, LLM-based systems**  
 - 📫 How to reach me: **LinkedIn:https://linkedin.com/in/jay-kotwal**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I’ve solved **Joking Mode On :)**  
+- ⚡ Fun fact:**Joking Mode On :)**  
